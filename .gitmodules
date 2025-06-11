@@ -1,3 +1,6 @@
 [submodule "traitbank"]
 	path = traitbank
 	url = https://github.com/nitingoyal0996/traitbank
+[submodule "webreader"]
+	path = webreader
+	url = https://github.com/nitingoyal0996/webreader.git
